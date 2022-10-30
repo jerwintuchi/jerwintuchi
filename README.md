@@ -1,7 +1,15 @@
-- Student
-- 22 yrs old
-- Currently taking Computer Science
-- my stack are C++, Java, Python, little bit of assembly, bash scripting(Linux/Windows), HTML+CSS+PHP and MySQL
+## Student
+## 22 yrs old
+## Currently taking Computer Science
+### Skills
+- C++
+- Java
+- Python
+- little bit of assembly
+- bash scripting(Linux/Windows)
+- HTML+CSS+PHP(XAMP)
+- MySQL
+
 - I love dogs 🐕
 - right now I am pursuing Data Science and building side-projects using streamlit for fun
 <!---

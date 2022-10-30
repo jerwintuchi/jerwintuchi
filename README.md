@@ -1,6 +1,6 @@
-## Student
-## 22 yrs old
-## Currently taking Computer Science
+-Student
+-22 yrs old
+-Currently taking Computer Science
 ### Skills
 - C++
 - Java

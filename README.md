@@ -1,3 +1,4 @@
+### About me
 - Student
 - 22 yrs old
 - Currently taking Computer Science
@@ -9,7 +10,7 @@
 - bash scripting(Linux/Windows)
 - HTML+CSS+PHP(XAMP)
 - MySQL
-
+### Fun Facts
 - I love dogs 🐕
 - right now I am pursuing Data Science and building side-projects using streamlit for fun
 <!---

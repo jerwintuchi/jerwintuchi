@@ -1,6 +1,6 @@
 - Student
-- 21 yrs old
-- Currently taking BSCSSE
+- 22 yrs old
+- Currently taking Computer Science
 - as of now I only know C++, Java, Python, little bit of assembly, bash scripting(Linux), HTML+CSS+PHP and MySQL
 - I love dogs 🐕
 <!---

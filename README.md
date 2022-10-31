@@ -1,7 +1,7 @@
 ### About me
 - Student
 - 22 yrs old
-- Currently taking Computer Science
+- currently taking Computer Science
 ### Skills
 - C++
 - Java

@@ -1,7 +1,7 @@
 ### About me
 - Student
 - 22 yrs old
-- currently taking Computer Science
+- currently taking Computer Science major in Software Engineering at [FEU Tech] (https://www.feutech.edu.ph/) 
 ### Skills
 - C++
 - Java

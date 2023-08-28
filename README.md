@@ -1,6 +1,6 @@
 ### About me
 - Student
-- 22 yrs old
+- 23 yrs old
 - currently taking Computer Science at [FEU Tech](https://www.feutech.edu.ph/) 
 ### Skills
 - C++

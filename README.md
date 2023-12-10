@@ -9,6 +9,8 @@
 - bash scripting(Windows)
 - HTML+CSS+PHP
 - MySQL
+- JS
+- Solidity
 ### Fun Facts
 - I love dogs 🐕
 - right now I am learning solidity and testing smart contracts and building side-projects for fun

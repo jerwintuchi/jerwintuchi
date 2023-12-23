@@ -12,7 +12,7 @@
 - JS
 - Solidity
 ### Fun Facts
-- I love dogs 🐕
+- I love dogs and cats 🐱🐕
 - right now I am learning React and building side-projects for fun
 <!---
 jerwintuchi/jerwintuchi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 ### About me
-- Student
+- CS Student
 - 23 yrs old
 ### Skills
 - C++

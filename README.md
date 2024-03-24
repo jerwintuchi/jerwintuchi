@@ -5,7 +5,7 @@
 - C++
 - Java
 - Python
-- bash scripting(Windows)
+- bash scripting(Windows/Linux)
 - HTML+CSS+PHP
 - MySQL
 - JS

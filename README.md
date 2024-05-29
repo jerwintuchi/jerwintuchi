@@ -1,15 +1,7 @@
 ### About me
 - CS Student
 - 23 yrs old
-### Skills
-- C++
-- Java
-- Python
-- bash scripting(Windows/Linux)
-- HTML+CSS+PHP
-- MySQL
-- JS
-- Solidity
+
 ### Fun Facts
 - I love dogs and cats 🐱🐕
 - right now I am learning React and building side-projects for fun

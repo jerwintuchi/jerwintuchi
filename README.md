@@ -1,6 +1,6 @@
 ### About me
 - CS Student
-- 23 yrs old
+- 24 yrs old
 
 ### Fun Facts
 - I love dogs and cats 🐱🐕

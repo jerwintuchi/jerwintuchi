@@ -1,5 +1,5 @@
 ### About me
-- CS Student
+- CS Graduate
 - 24 yrs old
 
 ### Fun Facts

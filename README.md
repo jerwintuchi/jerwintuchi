@@ -1,6 +1,5 @@
 ### About me
 - CS Graduate
-- 24 yrs old
 
 ### Fun Facts
 - I love dogs and cats 🐱🐕

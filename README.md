@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Jerwin</h1>
-<h3 align="center">A passionate software engineer that loves animals and nature</h3>
+<h3 align="center">A passionate software engineer that loves animals and nature 🌱</h3>
 
 ## 🔭 Projects I'm Currently Working On
 - [tonyong-bayawak](https://github.com/jerwintuchi/tonyongbayawak)
